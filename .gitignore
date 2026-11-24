@@ -1,0 +1,6 @@
+models/*.h5
+output/
+__pycache__/
+*.part
+.ipynb_checkpoints/
+data/desi_dr1_subsample500.h5
